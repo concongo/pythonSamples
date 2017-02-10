@@ -53,7 +53,7 @@ def boredom(staff):
                 return "kill me now"
             elif points >= 100:
                 return "party time!!"
-            elif points < 100 and points > 80:
+            else:
                 return "i can handle this"
             
             
